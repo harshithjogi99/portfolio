@@ -119,7 +119,7 @@ const Contact = () => {
           {/* Social icons row */}
           <div style={{ display: 'flex', gap: '16px', marginTop: '10px' }}>
             <a 
-              href="https://www.linkedin.com/in/harshith-jogi-581177413" 
+              href="https://www.linkedin.com/in/harshith-jj-912aa2418/?skipRedirect=true" 
               target="_blank" 
               rel="noreferrer"
               style={{

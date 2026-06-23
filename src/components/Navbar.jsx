@@ -192,7 +192,7 @@ const Navbar = () => {
           {/* Socials in Nav */}
           <div style={{ display: 'flex', gap: '16px' }}>
             <a
-              href="https://github.com/harshithjogi"
+              href="https://github.com/harshithjogi9999"
               target="_blank"
               rel="noreferrer"
               style={{ color: 'var(--text-secondary)', transition: 'color 0.3s' }}
@@ -202,7 +202,7 @@ const Navbar = () => {
               <GitHubIcon width="20px" height="20px" />
             </a>
             <a
-              href="https://www.linkedin.com/in/harshith-jogi-581177413"
+              href="https://www.linkedin.com/in/harshith-jj-912aa2418/?skipRedirect=true"
               target="_blank"
               rel="noreferrer"
               style={{ color: 'var(--text-secondary)', transition: 'color 0.3s' }}
@@ -290,7 +290,7 @@ const Navbar = () => {
           />
           <div style={{ display: 'flex', gap: '24px' }}>
             <a
-              href="https://github.com/harshithjogi"
+              href="https://github.com/harshithjogi9999"
               target="_blank"
               rel="noreferrer"
               style={{ color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '8px' }}
@@ -298,7 +298,7 @@ const Navbar = () => {
               <GitHubIcon width="22px" height="22px" /> GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/harshith-jogi-581177413"
+              href="https://www.linkedin.com/in/harshith-jj-912aa2418/?skipRedirect=true"
               target="_blank"
               rel="noreferrer"
               style={{ color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '8px' }}

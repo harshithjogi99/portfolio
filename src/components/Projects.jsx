@@ -24,7 +24,7 @@ const Projects = () => {
         "Resolved 15+ API endpoint failures via Postman and log-based debugging, eliminating response latency.",
         "Deployed on Vercel, reducing inference latency to under 10 seconds."
       ],
-      github: "https://github.com/harshithjogi",
+      github: "https://github.com/harshithjogi99",
       demo: "#"
     },
     {
@@ -40,7 +40,7 @@ const Projects = () => {
         "Extracted 15+ features to classify malicious URLs, improving detection recall from 67% to 81%.",
         "Achieved 88% ROC-AUC through model training and validation via automated testing."
       ],
-      github: "https://github.com/harshithjogi",
+      github: "https://github.com/harshithjogi99",
       demo: "#"
     },
     {
@@ -55,7 +55,7 @@ const Projects = () => {
         "Optimized clustering performance by 30% using Principal Component Analysis (PCA) with 95% variance.",
         "Launched an interactive real-time Streamlit dashboard reducing manual analysis time by 60%."
       ],
-      github: "https://github.com/harshithjogi",
+      github: "https://github.com/harshithjogi99",
       demo: "#"
     }
   ];
