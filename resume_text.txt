@@ -1,0 +1,49 @@
+HARSHITH JOGI 
+Nellore, India 
+harshithjogi58@gmail.com | +91 7013729971| www.linkedin.com/in/harshith -jogi-581177413 
+PROFESSIONAL SUMMARY 
+Engineering student with hands -on experience building and deploying full -stack web applications using Python, Flask, FastAPI,  
+and JavaScript. Delivered production -ready SaaS -style projects spanning AI inference, cybersecurity, and data analytics with a 
+focus on clean, maintainable code. Experienced in REST API design, debugging, and end -to-end system ownership. Collaborative 
+and quick to learn, eager to contribute to live product features and end -to-end product development lifecycle in a fast -paced 
+environment. 
+TECHNICAL SKILLS 
+ 
+• Languages: Python, JavaScript, Java, C++ 
+• Frontend: HTML5, CSS3, JavaScript, Angular 
+• Backend: Flask, FastAPI, Node.js, PostgreSQL, MongoDB, REST APIs 
+• Debugging & Tools: Log Analysis, Postman, Monitoring, Git, GitHub, Vercel, Docker 
+• Practices: Agile/Scrum, Code Review, Automated Testing, Best Practices in Software Development 
+• CS Fundamentals: Algorithms & Data Structures, OOP, DBMS, System Design 
+• Problem Solving: Analytical Thinking, Debugging, Application Performance Optimization 
+PROJECT EXPERIENCE  
+AI Resume Screening System | GITHUB 
+Python | Flask | Groq API (Llama 3.3 70B) | HTML5 | CSS3 | Vercel 
+• Designed prompt workflows for LLM-based resume evaluation across 10+ formats, delivering consistent output for skill gap 
+analysis and hiring recommendations 
+• Implemented a scoring system (0–100) ranking candidates into three tiers, reducing manual screening effort by 70% 
+• Constructed a PDF parsing pipeline using PyPDF2 to extract and normalize unstructured data from concurrent uploads 
+• Identified and resolved 15+ API endpoint failures via Postman and log-based debugging, eliminating response 
+inconsistencies across all endpoints 
+• Deployed a full-stack web application on Vercel, cutting inference latency to under 10 seconds 
+AI-Powered Phishing URL Detection & Threat Intelligence System | GITHUB 
+FastAPI | Cybersecurity | Chrome Extension 
+• Architected a FastAPI backend returning real-time threat classifications in under 200ms, integrated with a Chrome web 
+extension for live URL scanning across web and mobile-compatible platforms 
+• Diagnosed and resolved 3 critical pipeline defects via systematic log analysis, restoring stable API performance across 100K+ 
+URL samples 
+• Extracted 15+ features to classify malicious URLs, improving detection recall from 67% to 81% 
+• Achieved 88% ROC-AUC through model training and evaluation; validated via automated testing 
+Customer Segmentation & Clustering Analytics Platform | GITHUB 
+Python | PCA | Streamlit 
+• Processed 50K+ records, improving dataset reliability by 35% for downstream analysis 
+• Applied K-Means and Hierarchical clustering across 15+ features to identify four behavioral customer segments 
+• Optimized clustering performance by 30% using PCA with 95% variance retention 
+• Launched an interactive real-time web dashboard reducing manual analysis time by 60% 
+EDUCATION  
+M.Tech integr ated in Software Engineering  | Vellore institute of technology Amaravathi Sep 2022 – May 2026 
+CGPA: 7.46/10 | Relevant Coursework: Data Structures, Software Engineering 
+ACHIEVEMENTS & CERTIFICATIONS  
+• Oracle Cloud Infrastructure2025 Certified Generative AI Professional — Oracle 
+• Postman API Fundamentals Student Expert — Postman 
+• GenAI Powered Data Analytics Job Simulation — Forage  
