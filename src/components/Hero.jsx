@@ -80,20 +80,42 @@ const Hero = () => {
       {/* Left Column: Title & Intro */}
       <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', textAlign: 'left' }}>
         <div>
-          <span 
-            style={{ 
-              color: 'var(--accent-cyan)', 
-              fontFamily: 'var(--font-display)',
-              fontWeight: 600,
-              fontSize: '1rem',
-              letterSpacing: '0.15em',
-              textTransform: 'uppercase',
-              display: 'block',
-              marginBottom: '10px'
-            }}
-          >
-            Welcome to my space
-          </span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '20px', marginBottom: '16px', flexWrap: 'wrap' }}>
+            <div style={{
+              width: '80px',
+              height: '80px',
+              borderRadius: '50%',
+              border: '3px solid var(--accent-cyan)',
+              boxShadow: '0 0 15px rgba(6, 182, 212, 0.4)',
+              overflow: 'hidden',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              background: 'var(--bg-slate)',
+              flexShrink: 0
+            }}>
+              <img 
+                src="/profile_photo.jpg" 
+                alt="Harshith Jogi Profile" 
+                style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
+              />
+            </div>
+            <div>
+              <span 
+                style={{ 
+                  color: 'var(--accent-cyan)', 
+                  fontFamily: 'var(--font-display)',
+                  fontWeight: 600,
+                  fontSize: '1.05rem',
+                  letterSpacing: '0.15em',
+                  textTransform: 'uppercase',
+                  display: 'block'
+                }}
+              >
+                Welcome to my space
+              </span>
+            </div>
+          </div>
           <h1 
             style={{ 
               fontSize: 'clamp(2.5rem, 5vw, 4.5rem)', 
