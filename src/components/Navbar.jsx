@@ -192,7 +192,7 @@ const Navbar = () => {
           {/* Socials in Nav */}
           <div style={{ display: 'flex', gap: '16px' }}>
             <a
-              href="https://github.com/harshithjogi9999"
+              href="https://github.com/harshithjogi99"
               target="_blank"
               rel="noreferrer"
               style={{ color: 'var(--text-secondary)', transition: 'color 0.3s' }}
@@ -290,7 +290,7 @@ const Navbar = () => {
           />
           <div style={{ display: 'flex', gap: '24px' }}>
             <a
-              href="https://github.com/harshithjogi9999"
+              href="https://github.com/harshithjogi99"
               target="_blank"
               rel="noreferrer"
               style={{ color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '8px' }}
