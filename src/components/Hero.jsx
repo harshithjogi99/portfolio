@@ -97,7 +97,7 @@ const Hero = () => {
               <img 
                 src="/profile_photo.jpg" 
                 alt="Harshith Jogi Profile" 
-                style={{ width: '300%', height: '300%', objectFit: 'cover' }} 
+                style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
               />
             </div>
             <div>
